@@ -1,5 +1,4 @@
-- 👋 Hi there, I'm ItsProfessional
-- 🌔 I code stuff
+- 👋 Hi there
 - 🔎 You can contact me at ItsProfessional#0647 on Discord
 
 <!--
