@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **UWP, .NET Framework and more of C++ and C#**
 
-- 📫 How to reach me **itsprofessional1234@gmail.com (or on discord at: ItsProfessional#4531)**
+- 📫 You can reach me at **itsprofessional1234@gmail.com** (or on discord at: **ItsProfessional#4531**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
