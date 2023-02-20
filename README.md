@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm ItsProfessional</h1>
-<h3 align="center">Just another Java, C, C++, C# developer lol</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsprofessional&label=Profile%20views&color=0e75b6&style=flat" alt="itsprofessional" /> </p>
 
