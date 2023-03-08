@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsprofessional&label=Profile%20views&color=0e75b6&style=flat" alt="itsprofessional" /> </p>
 
-- 🔭 I’m currently working on [WinIconPatcher](https://github.com/ItsProfessional/WinIconPatcher)
+<!--- 🔭 I’m currently working on [PLACEHOLDER](https://github.com/ItsProfessional/PLACEHOLDER)-->
 
 - 🌱 I’m currently learning **UWP, .NET Framework and more of C++ and C#**
 
