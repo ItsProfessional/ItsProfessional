@@ -4,7 +4,7 @@
 
 <!--- 🔭 I’m currently working on [PLACEHOLDER](https://github.com/ItsProfessional/PLACEHOLDER)-->
 
-- 🌱 I’m currently learning **UWP, .NET Framework and more of C++ and C#**
+<!---- 🌱 I’m currently learning **XXXXXXXXXXXX**-->
 
 - 📫 You can reach me at **itsprofessional1234@gmail.com** (or on discord at: **ItsProfessional#4531**)
 
