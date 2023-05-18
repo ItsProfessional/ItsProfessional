@@ -8,7 +8,7 @@
 
 - 📫 You can reach me at **itsprofessional1234@gmail.com** (or on discord at: **ItsProfessional#4531**)
 
-<h3 align="left">Languages I use</h3>
+<h3 align="left">Programming languages I use</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
