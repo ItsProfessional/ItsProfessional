@@ -8,7 +8,7 @@
 
 - I like contributing to open source, that's why I'm here.
 - I create a few projects every once in a while, but don't expect me to maintain it for long.
-- feel free to improve my spaghetti code if you care enough, I appreciate it
+- feel free to improve my code if you care
 - You can reach me at **itsprofessional1234@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsprofessional&show_icons=true&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="itsprofessional" /></p>
